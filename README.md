@@ -13,3 +13,7 @@ Python-based chess games are versatile. They can feature multiplayer options, sa
 
 Whether for fun or educational purposes, building a chess game in Python fosters creativity and a deeper understanding of programming concept.
 </p>
+<h4>
+  The output when the no input is given:-
+</h4>
+<img src = "output1.png">
