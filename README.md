@@ -20,4 +20,12 @@ Whether for fun or educational purposes, building a chess game in Python fosters
 <h4>
   The output after giving some inputs are :-
 </h4>
-
+<p>
+  p p . n . p p p
+. . p . p n . .
+. . . p . . . .
+. . P P . . . .
+. . N . . N P .
+P P . . P P B P
+R . B Q K . . R
+</p>
