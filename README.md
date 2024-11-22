@@ -17,3 +17,7 @@ Whether for fun or educational purposes, building a chess game in Python fosters
   The output when the no input is given:-
 </h4>
 <img src = "output1.png">
+<h4>
+  The output after giving some inputs are :-
+</h4>
+
